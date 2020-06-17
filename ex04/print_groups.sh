@@ -1,3 +1,4 @@
-groups [FT_USER]
+echo $FT_USER
+
 
 
