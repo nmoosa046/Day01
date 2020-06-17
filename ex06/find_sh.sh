@@ -3,3 +3,4 @@ for pathname do
 	pathname=$( basename "$pathname" )
 	printf "%s\n" "${pathname%.*}"
 done' sh {} +
+ 
